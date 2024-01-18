@@ -1,3 +1,8 @@
-# CS506 Midterm
+# Amazon Movies Reviews Classifier
 
-Please take a look at the starter code in the jupyter notebook.
+I built a classifier to predict Amazon Movies scores from extracted features from users' star review.
+
+The dataset can be obtained from here: 
+
+https://www.kaggle.com/competitions/cs506-fall-2023-midterm
+
